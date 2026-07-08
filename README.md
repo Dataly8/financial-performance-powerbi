@@ -1,4 +1,6 @@
-ts, customers and operations create profit — and which erode it.
+# Profitability Analysis, Margin Control & Pricing Optimization
+
+End-to-end business intelligence project analyzing the financial performance of a manufacturing company, built on **SQL Server** and **Power BI**. The goal: identify which products, customers and operations create profit — and which erode it.
 
 📊 **[Live dashboard (Power BI)](ADD-YOUR-POWERBI-LINK-HERE)** · 📖 **[Full project write-up (Notion)](https://shimmering-channel-2df.notion.site/An-lisis-de-rentabilidad-control-de-margen-y-optimizaci-n-de-pricing-35a0587b6ac480e9b2ece9b4c11d8245)**
 
