@@ -8,6 +8,8 @@ End-to-end business intelligence project analyzing the financial performance of 
 
 ## Overview
 
+This project was developed as a collaborative academic assignment. My main contribution focused on designing and developing the Power BI dashboard, creating DAX measures, and building the visualizations. The star schema data model and part of the project documentation were developed by another team member.
+
 Built on the `IEBS_Manufacturing` database (Microsoft SQL Server), a practice environment simulating a metalworking company that buys materials, transforms them through production, and sells finished goods. Source data comes from a **Microsoft Dynamics NAV (Navision)** ERP: sales, purchases, products, customers, suppliers, returns and bill-of-materials.
 
 The project builds an analytical model that turns raw transactional ERP data into a decision-support system for commercial and financial decisions.
@@ -54,6 +56,8 @@ The detailed project write-up and dashboard commentary are in Spanish, available
 ---
 
 ## Versión en español
+
+Este proyecto fue desarrollado como un trabajo académico colaborativo. Mi principal contribución se centró en el diseño y desarrollo del dashboard en Power BI, la creación de medidas DAX y la elaboración de las visualizaciones. El modelo de datos en esquema estrella y parte de la documentación del proyecto fueron desarrollados por otra integrante del equipo.
 
 Proyecto integral de business intelligence que analiza el desempeño financiero de una empresa manufacturera, construido sobre **SQL Server** y **Power BI**. El objetivo: identificar qué productos, clientes y operaciones generan rentabilidad y cuáles erosionan el margen.
 
